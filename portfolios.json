@@ -98,14 +98,11 @@
                   "STEEM": {
                     "ratio": 0.3
                   },
-                  },
                   "DASH": {
                     "ratio": 0.3
                   },
-                },
                   "XEM": {
                     "ratio": 0.3
-                  },
                   },
                   "CVC": {
                     "ratio": 0.3
@@ -113,7 +110,6 @@
                   },
                   "GNT": {
                     "ratio": 0.3
-                  },
                   },
                   "DOGE": {
                     "ratio": 0.1
