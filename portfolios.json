@@ -48,6 +48,7 @@
         "options": {
           "interval": 5,
           "unit": "second",
+          "maker": true,
           "rules": [
             {
               "type": "rebalance",
