@@ -36,5 +36,40 @@
         }
       }
     ]
+  },
+  {
+    "id": "poloniex1",
+    "provider": {
+      "type": "poloniex"
+    },
+    "rules": [
+      {
+        "type": "every",
+        "options": {
+          "interval": 5,
+          "unit": "second",
+          "rules": [
+            {
+              "type": "rebalance",
+              "options": {
+                "change": 0.05,
+                "min": 2,
+                "items": {
+                  "XMR": {
+                    "ratio": 1
+                  },
+                  "ETH": {
+                    "ratio": 1
+                  },
+                  "BTC": {
+                    "ratio": 1
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
   }
 ]
