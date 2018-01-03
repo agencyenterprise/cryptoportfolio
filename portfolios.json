@@ -53,9 +53,52 @@
                   "SALT": {
                     "ratio": 0.3
                   },
+                  "POE": {
+                    "ratio": 0.3
+                  },
+                  "XZC": {
+                    "ratio": 0.3
+                  },
                   "ADA": {
                     "ratio": 0.3
                   },
+                  "BTC": {
+                    "ratio": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+   {
+    "id": "binance2",
+    "provider": {
+      "type": "binance"
+    },
+    "rules": [
+      {
+        "type": "every",
+        "options": {
+          "interval": 1,
+          "unit": "hour",
+          "rules": [
+            {
+              "type": "rebalance",
+              "options": {
+                "change": 0.05,
+                "min": 2,
+                "items": {
+                  "DASH": {
+                    "ratio": 0.3
+                  },
+                  "IOTA": {
+                    "ratio": 0.3
+                  },
+                  "XMR": {
+                    "ratio": 0.3
                   "BTC": {
                     "ratio": 0
                   }
