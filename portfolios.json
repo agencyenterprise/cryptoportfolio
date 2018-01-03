@@ -56,13 +56,13 @@
                 "min": 2,
                 "items": {
                   "XMR": {
-                    "ratio": 1
+                    "ratio": .3
                   },
                   "ETH": {
-                    "ratio": 1
+                    "ratio": .3
                   },
                   "BTC": {
-                    "ratio": 1
+                    "ratio": .3
                   }
                 }
               }
