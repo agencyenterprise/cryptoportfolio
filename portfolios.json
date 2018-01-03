@@ -26,6 +26,36 @@
                   "EOS": {
                     "ratio": 0.3
                   },
+                  "REQ": {
+                    "ratio": 0.3
+                  },
+                  "MTH": {
+                    "ratio": 0.3
+                  },
+                  "XVG": {
+                    "ratio": 0.3
+                  },
+                  "POWR": {
+                    "ratio": 0.3
+                  },
+                  "TRX": {
+                    "ratio": 0.3
+                  },
+                  "QSP": {
+                    "ratio": 0.3
+                  },
+                  "WABI": {
+                    "ratio": 0.3
+                  },
+                  "NEO": {
+                    "ratio": 0.3
+                  },
+                  "SALT": {
+                    "ratio": 0.3
+                  },
+                  "ADA": {
+                    "ratio": 0.3
+                  },
                   "BTC": {
                     "ratio": 0
                   }
@@ -67,6 +97,26 @@
                   },
                   "STEEM": {
                     "ratio": 0.3
+                  },
+                  },
+                  "DASH": {
+                    "ratio": 0.3
+                  },
+                },
+                  "XEM": {
+                    "ratio": 0.3
+                  },
+                  },
+                  "CVC": {
+                    "ratio": 0.3
+                  },
+                  },
+                  "GNT": {
+                    "ratio": 0.3
+                  },
+                  },
+                  "DOGE": {
+                    "ratio": 0.1
                   },
                   "BTC": {
                     "ratio": 0
