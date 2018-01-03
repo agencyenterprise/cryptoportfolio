@@ -8,8 +8,8 @@
       {
         "type": "every",
         "options": {
-          "interval": 5,
-          "unit": "second",
+          "interval": 1,
+          "unit": "hour",
           "rules": [
             {
               "type": "rebalance",
@@ -46,8 +46,8 @@
       {
         "type": "every",
         "options": {
-          "interval": 5,
-          "unit": "second",
+          "interval": 1,
+          "unit": "hour",
           "maker": true,
           "rules": [
             {
