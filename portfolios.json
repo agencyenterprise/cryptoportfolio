@@ -1,0 +1,40 @@
+[
+  {
+    "id": "binance1",
+    "provider": {
+      "type": "binance"
+    },
+    "rules": [
+      {
+        "type": "every",
+        "options": {
+          "interval": 5,
+          "unit": "second",
+          "rules": [
+            {
+              "type": "rebalance",
+              "options": {
+                "change": 0.05,
+                "min": 2,
+                "items": {
+                  "XRP": {
+                    "ratio": 0.3
+                  },
+                  "IOTA": {
+                    "ratio": 0.3
+                  },
+                  "EOS": {
+                    "ratio": 0.3
+                  },
+                  "BTC": {
+                    "ratio": 0
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+]
