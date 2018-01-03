@@ -62,7 +62,7 @@
                     "ratio": .3
                   },
                   "BTC": {
-                    "ratio": .3
+                    "ratio": 0
                   }
                 }
               }
