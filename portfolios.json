@@ -67,7 +67,7 @@
                   {
                     "type": "email",
                     "options": {
-                      "recipients": ["trest@arzynik.com"],
+                      "to": ["trest@arzynik.com"],
                       "subject": "tester"
                     }
                   }
