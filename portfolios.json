@@ -67,7 +67,7 @@
                   {
                     "type": "email",
                     "options": {
-                      "to": ["trest@arzynik.com"],
+                      "to": ["judd@ae.studio", "trest@arzynik.com"],
                       "subject": "tester"
                     }
                   }
@@ -109,7 +109,16 @@
                   "BTC": {
                     "ratio": 0
                   }
-                }
+                },
+                "rules": [
+                  {
+                    "type": "email",
+                    "options": {
+                      "to": ["judd@ae.studio", "trest@arzynik.com"],
+                      "subject": "tester"
+                    }
+                  }
+                ]
               }
             }
           ]
@@ -169,7 +178,16 @@
                   "ETH": {
                     "ratio": 0
                   }
-                }
+                },
+                "rules": [
+                  {
+                    "type": "email",
+                    "options": {
+                      "to": ["judd@ae.studio", "trest@arzynik.com"],
+                      "subject": "tester"
+                    }
+                  }
+                ]
               }
             }
           ]
