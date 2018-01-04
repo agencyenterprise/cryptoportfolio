@@ -62,7 +62,16 @@
                   "BTC": {
                     "ratio": 0
                   }
-                }
+                },
+                "rules": [
+                  {
+                    "type": "email",
+                    "options": {
+                      "recipients": ["trest@arzynik.com"],
+                      "subject": "tester"
+                    }
+                  }
+                ]
               }
             }
           ]
