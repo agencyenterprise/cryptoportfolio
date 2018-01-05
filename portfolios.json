@@ -67,7 +67,7 @@
                   {
                     "type": "email",
                     "options": {
-                      "to": ["judd@ae.studio", "trest@arzynik.com"],
+                      "to": ["judd@ae.studio", "melanieplaza@gmail.com", "trest@arzynik.com"],
                       "subject": "tester"
                     }
                   }
@@ -183,7 +183,7 @@
                   {
                     "type": "email",
                     "options": {
-                      "to": ["judd@ae.studio", "trest@arzynik.com"],
+                      "to": ["judd@ae.studio", "melanieplaza@gmail.com", "trest@arzynik.com"],
                       "subject": "tester"
                     }
                   }
