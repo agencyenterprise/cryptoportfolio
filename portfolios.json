@@ -9,7 +9,7 @@
         "type": "every",
         "options": {
           "interval": 1,
-          "unit": "hour",
+          "unit": "day",
           "rules": [
             {
               "type": "rebalance",
@@ -89,7 +89,7 @@
         "type": "every",
         "options": {
           "interval": 1,
-          "unit": "hour",
+          "unit": "day",
           "rules": [
             {
               "type": "rebalance",
@@ -136,7 +136,7 @@
         "type": "every",
         "options": {
           "interval": 1,
-          "unit": "hour",
+          "unit": "day",
           "maker": true,
           "rules": [
             {
