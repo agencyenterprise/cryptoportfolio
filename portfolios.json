@@ -137,7 +137,7 @@
         "options": {
           "interval": 1,
           "unit": "day",
-          "maker": true,
+          "limit": true,
           "rules": [
             {
               "type": "rebalance",
